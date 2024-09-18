@@ -1,6 +1,8 @@
 #include <iostream>
 #include <Windows.h>
 
+//Im sorry for 응응응응�
+
 int main()
 {
 	SetConsoleCP(1251);
